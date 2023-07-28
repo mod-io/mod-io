@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mod-io
 - 👀 I’m interested in ... machine learning
 - 🌱 I’m currently learning ... data structures & algorithms
-- 💞️ I’m looking to collaborate on ... fun projects
+- 💞️ I’m looking to collaborate on ... projects for my portfolio
 - 📫 How to reach me ... stepdavis8@gmail.com
 
 <!---
