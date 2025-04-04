@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mod-io
-- 👀 I’m interested in ... machine learning
-- 🌱 I’m currently learning ... data structures & algorithms
-- 💞️ I’m looking to collaborate on ... projects for my portfolio
+- 👀 I’m interested in ... cloud computing and infrastructure management
+- 🌱 I’m currently learning ... aws and terraform
+- 💞️ I’m looking to collaborate on ... cloud projects
 - 📫 How to reach me ... stepdavis8@gmail.com
 
 <!---
